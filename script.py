@@ -1,9 +1,7 @@
 print('Hello Pluto')
 
 
-
-
-
+# This script prints a greeting and some variable values
 
 
 x = 4

@@ -12,3 +12,6 @@ f = 3.14
 print(f) 
 #print("End of script")
 print("End of script")
+
+# This is a comment explaining the purpose of the script
+# The script prints a greeting and some variable values 
